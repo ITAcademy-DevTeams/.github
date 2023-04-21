@@ -55,16 +55,15 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 ## Added to documentation?
 
 - [ ] 📜 README.md
-- [ ] 📓 docs.opensauced.pizza
-- [ ] 🍕 dev.to/opensauced
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
+- [ ] 😞 no documentation implemented
 
-## [optional] Are there any post-deployment tasks we need to perform?
+<!-- ## [optional] Are there any post-deployment tasks we need to perform? -->
 
 
 
-## [optional] What gif best describes this PR or how it makes you feel?
+## What gif best describes this PR or how it makes you feel?
 
 
 
